@@ -4,7 +4,7 @@ body{
 	background-color: #e6e8ff;
 }
 
-* {
+h1, h2, ol, ul{
 	font-family: 'Trade Winds', cursive;
 }
 
@@ -34,6 +34,10 @@ main{
 	padding: 20px;
 }
 
+main p{
+	font-family: 'Trade Winds', cursive;
+}
+
 main img{
 	max-width: 100%;
 }
@@ -61,12 +65,10 @@ footer{
 
 footer p{
 	margin: 0;
-	font-family: 'Helvetica', 'Arial', sans-serif;
 }
 
 footer a{
 	color: white;
-	font-family: 'Helvetica', 'Arial', sans-serif;
 }
 
 footer a:hover{
