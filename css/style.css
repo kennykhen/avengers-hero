@@ -8,25 +8,34 @@ h1, h2, ol, ul{
 	font-family: 'Trade Winds', cursive;
 }
 
-
 header{
 	text-align: center;
 	padding: 50px;
 	background-image: url("../images/thor-header.jpg");
 	background-position: top center;
+	background-attachment: fixed;
 }
 
 header h1{
 	color: #e6e8ff;
 	font-size: 50px;
-	text-shadow: 0 4px 20px black;
-}
+	text-shadow: 0 0 10px lightblue,
+				 0 0 10px lightblue,
+				 0 0 10px lightblue,
+				 0 0 10px lightblue,
+				 0 0 10px lightblue;			 				
+}				 
 
 header img{
 	border-radius: 150px;
     width: 300px;
-    box-shadow: 0 4px 20px black;
+    box-shadow: 0 0px 10px lightblue,
+    			0 0px 10px lightblue,
+    			0 0px 10px lightblue,
+    			0 0px 10px lightblue,
+    			0 0px 10px lightblue;				
 }
+
 
 main{
 	max-width: 800px;
