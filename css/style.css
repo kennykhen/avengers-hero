@@ -1,9 +1,13 @@
 body{
 	margin: 0;
-	font-family: 'Trade Winds', cursive;
 	font-size: 20px;
 	background-color: #e6e8ff;
 }
+
+* {
+	font-family: 'Trade Winds', cursive;
+}
+
 
 header{
 	text-align: center;
@@ -57,10 +61,12 @@ footer{
 
 footer p{
 	margin: 0;
+	font-family: 'Helvetica', 'Arial', sans-serif;
 }
 
 footer a{
 	color: white;
+	font-family: 'Helvetica', 'Arial', sans-serif;
 }
 
 footer a:hover{
