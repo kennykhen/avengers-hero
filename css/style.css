@@ -1,6 +1,6 @@
 body{
 	margin: 0;
-	font-family: 'Helvetica', 'Arial', sans-serif;
+	font-family: 'Trade Winds', cursive;
 	font-size: 20px;
 	background-color: #e6e8ff;
 }
@@ -10,10 +10,6 @@ header{
 	padding: 50px;
 	background-image: url("../images/thor-header.jpg");
 	background-position: top center;
-}
-
-h1, h2{
-	font-family: 'Trade Winds', cursive;
 }
 
 header h1{
